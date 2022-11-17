@@ -12,7 +12,7 @@ import random
 import math
 import asyncio
 
-TOKEN = 'Njk2NTI1MTg1MTkyNDI3NTkw.Xop_oA.3y55L9kHnYXJp6LZe-yCsT3mqmI'
+TOKEN = 'token'
 cmd_symbol = 'kat$'
 client = commands.Bot(command_prefix=commands.when_mentioned_or(cmd_symbol))
 players = {}
